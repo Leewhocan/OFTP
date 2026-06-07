@@ -1,4 +1,4 @@
-````markdown
+````
 # OTP Authentication Service
 
 Сервис генерации и валидации OTP-кодов с JWT-аутентификацией и ролевой моделью доступа. Поддерживает多渠道 рассылку кодов: Email, SMS, Telegram и сохранение в файл.
@@ -32,7 +32,6 @@
 
 ```bash
 docker-compose up -d --build
-```
 ````
 
 Контейнеры:
